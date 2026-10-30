@@ -1,4 +1,4 @@
-
+![Secure Password Generator](banner.png)
 # Secure Password Generator
 
 A simple and secure password generator built using Python.
